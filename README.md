@@ -67,8 +67,8 @@ The application includes:
 
 Compile:
 
-```bash
-g++ server.cpp Frame.cpp CRC16.CPP ChannelSimulator.cpp -o proto.exe -pthread -D_WIN32_WINNT=0x0A00 -lws2_32
+
+```g++ server.cpp Frame.cpp CRC16.CPP ChannelSimulator.cpp -o proto.exe -pthread -D_WIN32_WINNT=0x0A00 -lws2_32```
 
 ## RUN
 ```./proto.exe```
