@@ -81,7 +81,7 @@ click on ```http://localhost:8080```
 The frontend was built using existing HTML/CSS examples as a starting point and adapted for this project.  
 The main focus of the implementation is the backend logic and protocol simulation in C++.
 
-##Current Status
+## Current Status
 
 This project is still being improved. Possible next steps include:
 
